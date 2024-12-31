@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bocilcrot.pages.dev/sitemap.xml
